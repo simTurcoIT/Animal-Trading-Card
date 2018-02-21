@@ -1,0 +1,55 @@
+/* I found https://developer.mozilla.org very useful for all the informations
+about HTML and CSS */
+
+h3 {
+  font-family:sans-serif;
+  border: 2px solid blue;
+  border-radius: 5px;
+  padding: 5px;
+  width: 200px;
+  background-color: #80b3ff;
+}
+
+.card {
+  border: 3px solid blue;
+  border-radius: 5px;
+  width: 305px;
+  padding: 10px;
+  margin: 10px;
+  box-shadow: 5px 8px 5px blue;
+  background-color: #1a75ff;
+}
+
+.image {
+  width: 300px;
+  border: 2px solid blue;
+  border-radius: 5px;
+}
+
+.item {
+  border: 2px solid blue;
+  border-radius: 5px;
+  padding: 10px;
+  text-align: justify;
+  background-color: #003d99;
+}
+
+.fact {
+  font-style: italic;
+  font-family: sans-serif;
+}
+
+span {
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+.features {
+  font-family: sans-serif;
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+.description {
+  font-family: sans-serif;
+}
